@@ -5,6 +5,7 @@
 - nano file.txt
 - git add .
 - git rebase --continue
+> This command tells Git to apply the changes we've resolved or made and continue applying the remaining commits in the rebase sequence.
 - ls
 - nano file.txt
 - git rebase --continue
