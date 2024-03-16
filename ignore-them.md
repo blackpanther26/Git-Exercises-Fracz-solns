@@ -1,6 +1,7 @@
 # ignore-them
 - git start next
 - touch .gitignore
+> '.gitignore' a plain text file placed in the root directory of your Git repository that specifies files and patterns Git should ignore when tracking changes and committing them.
 - nano .gitignore
 > - *.exe
 > - to ignore all files with a .exe extension, we use the pattern *.exe
